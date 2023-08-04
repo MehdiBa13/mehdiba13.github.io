@@ -15,6 +15,7 @@
 *{
   	font-family: 'JetBrains Mono', monospace;
   	color: var(--foreground);
+	background-color: var(--background);
   	transition: 0.6s;
 }
 body{
